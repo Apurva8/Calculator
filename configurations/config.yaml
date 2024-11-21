@@ -1,0 +1,5 @@
+operations:
+  addition: "addition"
+  subtraction: "subtraction"
+  multiplication: "multiplication"
+  division: "division"
