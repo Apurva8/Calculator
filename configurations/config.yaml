@@ -3,3 +3,5 @@ operations:
   subtraction: "subtraction"
   multiplication: "multiplication"
   division: "division"
+
+# output_mode: "save" 

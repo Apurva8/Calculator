@@ -12,3 +12,5 @@ def create_dynamic_mapping(config_file):
         else:
             print(f"Warning: Function '{func_name}' is not defined.")
     return dynamic_operation_map
+
+ 
